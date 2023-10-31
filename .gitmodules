@@ -1,0 +1,6 @@
+[submodule "gym-donkeycar"]
+	path = gym-donkeycar
+	url = https://github.com/CathaloFaolain/gym-donkeycar
+[submodule "rl-baselines3-zoo"]
+	path = rl-baselines3-zoo
+	url = https://github.com/CathaloFaolain/rl-baselines3-zoo
